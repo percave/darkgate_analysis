@@ -1,6 +1,6 @@
 # DarkGate Malware İncelemesi
 
-Introduction.............
+Selam! Bu yazıda DarkGate adlı kötücül yazılımın derinlemesine bir incelemesini yapacağız. DarkGate, kendini gizleyen bir VBS betiği ile başlayan, ardından AutoIt3 kullanarak pek çok zararlı faaliyeti gerçekleştiren karmaşık bir kötücül yazılımdır. Bu yazıda, DarkGate'in içeriğini ve çalışma mantığını detaylı bir şekilde inceleyeceğiz. Ayrıca, bu kötücül yazılımın nasıl engellenebileceğini de ele alacağız.
 
 ## Malware İçeriği
 Malware örneğine ilk baktığımızda 1 adet vbs dosyası görüyoruz bu dosya çalıştırdığı anda yükleyiciyi çıkartıp malware içeriğinin çalışmasını sağlıyor. VBS dosyasını açtığımızda aşağıdaki gibi satırlar bizi karşılamakta.
